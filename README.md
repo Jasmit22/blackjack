@@ -57,22 +57,45 @@ A **free-to-play, multiplayer blackjack game** designed for fun, accessibility, 
   - Monitor lobbies.
   - Resolve user issues.
 
+<!-- Tech Stack -->
+
 ## **Tech Stack**
 
 ### **Frontend**
 
-- **React**: Dynamic and responsive user interface.
-- **Tailwind CSS**: Efficient and clean styling for a visually appealing UI.
+<div class="flex items-center gap-2">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/react.svg" alt="React" width="18" height="18">
+  <strong>React</strong>: Dynamic and responsive user interface.
+</div>
+
+<div class="flex items-center gap-2 mt-2">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/tailwindcss.svg" alt="Tailwind CSS" width="18" height="18">
+  <strong>Tailwind CSS</strong>: Efficient and clean styling for a visually appealing UI.
+</div>
 
 ### **Backend**
 
-- **Node.js & Express.js**: Backend server and API management.
-- **MySQL**: Relational database for managing player data, stats, and lobbies.
-- **WebSockets**: Real-time communication for seamless multiplayer gameplay.
+<div class="flex items-center gap-2 mt-2">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/nodedotjs.svg" alt="Node.js" width="18" height="18">
+  <strong>Node.js & Express.js</strong>: Backend server and API management.
+</div>
+
+<div class="flex items-center gap-2 mt-2">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/mysql.svg" alt="MySQL" width="18" height="18">
+  <strong>MySQL</strong>: Relational database for managing player data, stats, and lobbies.
+</div>
+
+<div class="flex items-center gap-2 mt-2">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/socketdotio.svg" alt="WebSockets" width="18" height="18">
+  <strong>WebSockets</strong>: Real-time communication for seamless multiplayer gameplay.
+</div>
 
 ### **Deployment**
 
-- **Docker**: Containerized runtime environment ensuring compatibility and scalability.
+<div class="flex items-center gap-2 mt-2">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/docker.svg" alt="Docker" width="18" height="18">
+  <strong>Docker</strong>: Containerized runtime environment ensuring compatibility and scalability.
+</div>
 
 ## **Environment Variables**
 
