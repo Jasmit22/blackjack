@@ -6,7 +6,6 @@ A **free-to-play, multiplayer blackjack game** designed for fun, accessibility, 
 
 [Link to Demo (YouTube)](https://youtu.be/cswk6KqHbqI)
 
----
 
 ## **Features**
 
@@ -57,8 +56,6 @@ A **free-to-play, multiplayer blackjack game** designed for fun, accessibility, 
   - Monitor lobbies.
   - Resolve user issues.
 
-<!-- Tech Stack -->
-
 ## **Tech Stack**
 
 ### **Frontend**
@@ -98,8 +95,8 @@ A **free-to-play, multiplayer blackjack game** designed for fun, accessibility, 
 </div>
 
 ## **Environment Variables**
-
-You will notice the `.env` file is included within the database files. This is because the database runs locally, so security is not a concern.
+> [!IMPORTANT]
+> `.env` files are included in the database setup for simplicity, as this project runs locally.
 
 In the backend, add the following to a `.env` file:
 
